@@ -1,0 +1,158 @@
+    body {
+        font-family: "Open Sans", sans-serif;
+        font-size: 16px;
+        box-sizing: border-box;
+        background-color: #f5f4f0;
+    }
+
+    /* #primer {
+        padding-top: 80px;
+font-weight: 600; }*/
+
+main {
+    margin: auto;
+    color: #333333;
+    max-width: 1120px;
+}
+    
+
+        h1 {
+            padding-top: 80px;
+            margin-bottom: 40px;
+        }
+    
+    #title {
+     
+        font-size: 36px;
+        
+        color: #1B1B1B;
+        text-transform: capitalize;
+    }
+
+    #imgone {
+        max-height: 660px;
+        /* margin-bottom: 24px; */
+    }
+
+    #intrd {
+        /* margin-bottom: 40px; */
+        font-style: italic;
+        
+
+    }
+
+    div {
+        margin-top: 64px;
+    }
+
+    #headt {
+        margin-top: 2px;
+        margin-bottom: 64px;
+        text-transform: capitalize;
+        
+    }
+
+    #int {
+        margin-bottom: 64px;
+    }
+
+    #imgtwo {
+        /* margin-bottom: 20px; */
+        height: 350px;
+    }
+
+    .twet {
+        margin-top: 30px;
+        
+        border-radius: 28px;
+    }
+
+    .stg {
+        font-weight: 700;
+        font-size: 17px;
+    }
+    #headt {
+        font-size: 32px;
+    }
+
+    h3 {
+        font-size: 28px;
+        padding-left: 10px;
+    margin-bottom: 4px;
+   
+    }
+    
+    h2 {
+        margin-bottom: 64px;
+    }
+
+#headt, h3 {
+    color: #1B1B1B;
+}
+
+
+
+.headline {
+    color: #E1624F;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.border {
+    border-radius: 28px;
+    width: 100%;
+}
+
+ul {
+    margin-bottom: 40px;
+    padding-left: 0;
+}
+
+li {
+    list-style: none;
+}
+
+    .subir {
+        margin-top: 0;
+    }
+
+
+
+#historia {
+    color: #0C51A7;
+}
+
+#casais {
+color: #591B98;
+}
+
+#familia {
+color: #E5245E;
+}
+
+#orcamento {
+color: #E95E10;
+}
+
+#borda {
+    margin-bottom: 40px;
+    /* margin-top: 40px; */
+}
+
+
+footer img {
+    vertical-align: middle;
+}
+
+
+footer { 
+    color: #333333;
+text-align: center;
+font-family: "Alice", sans-serif;
+margin-bottom: 60px;
+font-size: 18px;
+}
+.bd {
+    color: #d9d9d9;
+}
+
